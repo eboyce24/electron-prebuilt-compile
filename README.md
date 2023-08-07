@@ -1,6 +1,6 @@
 # electron-prebuilt-compile
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)  - Because everything is fucking broken and I can't even install and use forge because fuck this shit.
 
 electron-prebuilt-compile is a drop-in replacement for [electron-prebuilt](https://github.com/mafintosh/electron-prebuilt) that natively understands ES6 + React + LESS + some other languages, powered by [electron-compile](https://github.com/electronjs/electron-compile).
 
